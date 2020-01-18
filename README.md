@@ -8,7 +8,7 @@ Shahinator Blog Application Features:
 
 * Rails version 5.2.4.1
 
-* Semantic UI
+* Semantic UI Version 2.4.2
 
 * Action Cable
 

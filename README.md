@@ -1,24 +1,29 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to Visit Shahinator Messageme using Ruby on Rails Web Application, Semantic UI, ActionCable, Proper User Security, i think that it will be help for increasing you knowledge.So lets go..
 
-Things you may want to cover:
+Shahinator Blog Application Features:
 
-* Ruby version
+* Ruby version 2.6.3
 
-* System dependencies
+* Rails version 5.2.4.1
 
-* Configuration
+* Semantic UI
 
-* Database creation
+* Action Cable
 
-* Database initialization
+* PostPreSQL
 
-* How to run the test suite
+* HTML5
 
-* Services (job queues, cache servers, search engines, etc.)
+* CSS3
 
-* Deployment instructions
+* Form Validation 
 
-* ...
+* User Faxibilities
+
+* 100% User Friendly
+
+* All Live Chat Featured Add Here
+
+* So on ...
